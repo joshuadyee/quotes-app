@@ -11,3 +11,12 @@ Please provide the following functionality:
   Required: Provide a client-side search that filters by the quote text
 
 
+
+
+To Do: 
+
+1. Create a quotes index page 
+  - use axios to get quotes from the given quotes library
+2. Display the quotes in either a table or a list
+3. Maximum of 15 quotes per page (client side)
+4. 
